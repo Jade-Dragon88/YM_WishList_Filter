@@ -252,15 +252,3 @@ function AAA() {
     } // конец function toFiltering
 } // конец function AAA
 
-
-
-
-
-
-
-
-
-
-
-
-
